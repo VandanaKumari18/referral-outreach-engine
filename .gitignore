@@ -1,0 +1,8 @@
+# clasp (Apps Script CLI) local config — contains your script ID / auth
+.clasp.json
+.clasprc.json
+
+# never commit secrets
+*.env
+.env*
+secrets*
